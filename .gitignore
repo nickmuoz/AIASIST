@@ -1,0 +1,5 @@
+# Ignora los archivos relacionados a API keys
+.env
+#Ignora el entorno
+.venv
+env
